@@ -10,5 +10,6 @@
     <file alias="edit-cut.svg">edit-cut.svg</file>
     <file alias="edit-paste.svg">edit-paste.svg</file>
     <file alias="help-content.svg">help-content.svg</file>
+    <file alias="debug-console.svg">debug-console.svg</file>
 </qresource>
 </RCC>
